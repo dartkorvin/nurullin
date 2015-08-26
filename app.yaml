@@ -22,5 +22,11 @@ handlers:
 - url: /templates
   static_dir: templates
 
+- url: /component
+  static_dir: component
+
+- url: /components
+  static_dir: components
+
 - url: /.*
   script: _go_app

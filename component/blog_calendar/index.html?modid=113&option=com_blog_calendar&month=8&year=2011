@@ -1,0 +1,212 @@
+<!DOCTYPE HTML>
+<html lang="ru-ru" dir="ltr">
+
+<head>
+<meta charset="utf-8" />
+  <base href="http://xn--116-5cda2d1br3h.xn--p1ai/component/blog_calendar/" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Нуруллин.рф Сайт Нуруллина Айрата Каюмовича</title>
+  <link href="/templates/yoo_nano/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/base.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/menus.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/modules.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/tools.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/font1/trebuchet.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/font2/trebuchet.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/font3/trebuchet.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/yoo_nano/css/print.css" type="text/css" />
+  <style type="text/css">
+    <!--
+.wrapper { width: 1200px; }
+#sidebar-b { width: 215px; }
+#maininner { width: 985px; }
+#maininner { float: right; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }
+    -->
+  </style>
+  <script type="text/javascript" src="/templates/yoo_nano/warp/libraries/jquery/jquery.js"></script>
+  <script type="text/javascript" src="/components/com_jcomments/js/jcomments-v2.1.js?v=2"></script>
+  <script type="text/javascript" src="/components/com_jcomments/libraries/joomlatune/ajax.js"></script>
+  <script type="text/javascript" src="/templates/yoo_nano/warp/js/warp.js"></script>
+  <script type="text/javascript" src="/templates/yoo_nano/warp/js/accordionmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_nano/warp/js/dropdownmenu.js"></script>
+  <script type="text/javascript" src="/templates/yoo_nano/js/template.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/modules/mod_blog_calendar/js/blog_calendar.js"></script>
+  <script type="text/javascript" src="/modules/mod_blog_calendar/js/blog_list.js"></script>
+  <script type="text/javascript">
+var month=8; var year=2011; var calendar_baseurl='http://xn--116-5cda2d1br3h.xn--p1ai/';
+  </script>
+
+<link rel="apple-touch-icon" href="/templates/yoo_nano/apple_touch_icon.png" /></head>
+
+<body id="page" class="page sidebar-a-left sidebar-b-left noblog ">
+<div id="bl"></div>
+<div id="br"></div>
+<div id="center-fon">
+
+		
+	<div class="wrapper grid-block">
+
+		<header id="header">
+<table width="1200"><tr><td width="330">19 сентября 1989г.</td><td><span style="font-size: 26px;"><br/><center>Международная Организация Каратэ Со-Кёкусин Кайкан<br/><br/> Nurullin Dojo</center><br/></span></td><td width="330"  style="text-align: right;">г. Казань</td></tr></table>
+			<div id="toolbar" class="grid-block">
+
+									
+								
+			</div>
+
+			<div id="headerbar" class="grid-block">
+			
+				
+				
+								
+			</div>
+
+			<div id="menubar" class="grid-block">
+				
+				
+								
+			</div>
+		
+					
+		</header>
+
+				
+				
+				<div id="main" class="grid-block">
+
+			<div id="maininner" class="grid-box">
+
+				
+				
+								<section id="content" class="grid-block">
+<!--component start-->
+<div class="componentheading">
+Августа 2011</div>
+<br>
+
+<!--component end--></section>
+				
+				
+			</div>
+			<!-- maininner end -->
+			
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-line deepest">
+
+		
+		<ul class="menu menu-sidebar"><li class="level1 item1"><a href="http://xn--116-5cda2d1br3h.xn--p1ai/" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/folder_home.png);"> </span>Главная</span></a></li><li class="level1 item2"><a href="/autobiografiya.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/access.png);"> </span>Автобиография</span></a></li><li class="level1 item3"><a href="/photo.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/folder_image.png);"> </span>Фото</span></a></li><li class="level1 item4"><a href="/video.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/folder_video.png);"> </span>Видео</span></a></li><li class="level1 item5"><a href="http://www.kyokushinkarate.ru/" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/kk-logo.png);"> </span>Российский Союз Каратэ</span></a></li><li class="level1 item6"><a href="http://vk.com/nurullin_dojo" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/vkontahkte.png);"> </span>Группа Вконтакте</span></a></li><li class="level1 item7"><a href="/drugie-dojo.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/grugie-dojo.png);"> </span>Dojo</span></a></li><li class="level1 item8"><a href="/partnery.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/partnery.png);"> </span>Наши Друзья</span></a></li><li class="level1 item9"><a href="/ugolok-zdorovya.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/health.png);"> </span>Уголок здоровья</span></a></li><li class="level1 item10"><a href="/sell.html" class="level1"><span><span class="icon" style="background-image: url(http://xn--116-5cda2d1br3h.xn--p1ai/images/stories/mail.png);"> </span>Написать письмо</span></a></li></ul>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line deepest">
+
+		
+	<h3 class="title">ссылки</h3>	<p><a href="http://www.yakunin.ru/"><img src="/images/stories/so-sihan.gif" alt="" /></a></p>
+<p><a href="http://www.kyokushin.ne.jp/"><img src="/images/stories/oishi_dojo.gif" alt="" /></a></p>
+<p><a href="http://www.sokyokushin.com/"><img src="/images/stories/world_sokyokushin.gif" alt="" /></a></p>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line deepest">
+
+		
+	<h3 class="title">Календарь</h3>	
+
+<link rel="stylesheet" href="/modules/mod_blog_calendar/tmpl/calstyle.css" type="text/css">
+
+<div id="calendar-113">
+
+<!--calendar-113 start-->
+
+<table id="tableCalendar-113" class="blogCalendar">
+<tr>
+<td align="center" class="blogCalendarHeader headerArrow"><a class="headerArrow" id="prevMonth-113" href="http://xn--116-5cda2d1br3h.xn--p1ai/component/blog_calendar/?modid=113&amp;option=com_blog_calendar&amp;month=7&amp;year=2011">&lt;</a></td>
+<td align="center" class="blogCalendarHeader headerDate" colspan="5"><a class="headerDate" href="/component/blog_calendar/?year=2011&amp;month=8&amp;modid=113">Августа 2011</a></td>
+<td align="center" class="blogCalendarHeader headerArrow"><a class="headerArrow" id="nextMonth-113" href="http://xn--116-5cda2d1br3h.xn--p1ai/component/blog_calendar/?modid=113&amp;option=com_blog_calendar&amp;month=9&amp;year=2011" >&gt;</a></td>
+</tr>
+<tr>
+<td class="dayName">П</td>
+<td class="dayName">В</td>
+<td class="dayName">С</td>
+<td class="dayName">Ч</td>
+<td class="dayName">П</td>
+<td class="dayName">С</td>
+<td class="dayName">В</td>
+</tr>
+<tr>
+<td class="blogCalendarDay " >1</td>
+<td class="blogCalendarDay " >2</td>
+<td class="blogCalendarDay " >3</td>
+<td class="blogCalendarDay " >4</td>
+<td class="blogCalendarDay " >5</td>
+<td class="blogCalendarDay " >6</td>
+<td class="blogCalendarDay " >7</td>
+</tr>
+<tr>
+<td class="blogCalendarDay " >8</td>
+<td class="blogCalendarDay " >9</td>
+<td class="blogCalendarDay " >10</td>
+<td class="blogCalendarDay " >11</td>
+<td class="blogCalendarDay " >12</td>
+<td class="blogCalendarDay " >13</td>
+<td class="blogCalendarDay " >14</td>
+</tr>
+<tr>
+<td class="blogCalendarDay " >15</td>
+<td class="blogCalendarDay " >16</td>
+<td class="blogCalendarDay " >17</td>
+<td class="blogCalendarDay " >18</td>
+<td class="blogCalendarDay " >19</td>
+<td class="blogCalendarDay " >20</td>
+<td class="blogCalendarDay " >21</td>
+</tr>
+<tr>
+<td class="blogCalendarDay " >22</td>
+<td class="blogCalendarDay " >23</td>
+<td class="blogCalendarDay " >24</td>
+<td class="blogCalendarDay " >25</td>
+<td class="blogCalendarDay " >26</td>
+<td class="blogCalendarDay " >27</td>
+<td class="blogCalendarDay " >28</td>
+</tr>
+<tr>
+<td class="blogCalendarDay " >29</td>
+<td class="blogCalendarDay " >30</td>
+<td class="blogCalendarDay " >31</td>
+<td class="blogCalendarDay blogCalendarDayEmpty " >&nbsp;</td>
+<td class="blogCalendarDay blogCalendarDayEmpty " >&nbsp;</td>
+<td class="blogCalendarDay blogCalendarDayEmpty " >&nbsp;</td>
+<td class="blogCalendarDay blogCalendarDayEmpty " >&nbsp;</td>
+</tr>
+</table>
+
+<!--calendar-113 end-->
+
+</div>
+
+
+<div id="ArticleList">
+<!--dropdown start-->
+</div>
+		
+</div></div><div class="sidebar-bg"></div></aside>
+			
+		</div>
+				<!-- main end -->
+
+				
+				
+				
+		
+	</div>
+	
+	</div>
+</body>
+</html>
