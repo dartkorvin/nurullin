@@ -1,0 +1,83 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+@import url(../warp/css/base.css);
+
+
+/* New style-related Base Values
+----------------------------------------------------------------------------------------------------*/
+.blogCalendar {
+border: 1px solid white;
+}
+.blogCalendar tr {
+border: 1px solid white;
+}
+.blogCalendar tr td {
+border: 1px solid white;
+}
+body {
+	font: normal 14px/20px Arial, Helvetica, sans-serif;
+	color: #fff;
+	background: #243c72;
+}
+#center-fon {
+	margin:0 auto;
+	padding:0px;
+	height:889px;
+	width: 1360px;
+background: url("/images/yootheme/bg.jpg") no-repeat #000;
+}
+#bl {
+	margin:0px;
+	padding:0px;
+    background: url("http://нуруллин.рф/images/yootheme/bl.jpg") repeat-x scroll left top transparent;
+    height: 889px;
+    position: absolute;
+    width: 50%;
+    z-index: -1;
+}
+#br {
+	margin:0px;
+	padding:0px;
+    background: url("http://нуруллин.рф/images/yootheme/br.jpg") repeat-x scroll left top transparent;
+    height: 889px;
+    left: 50%;
+    position: absolute;
+    width: 50%;
+    z-index: -1;
+}
+
+a { color: #b13c22; }
+
+a:hover,
+em, code { color: #d50; }
+
+a:hover { text-decoration: none; }
+
+ins, mark { background-color: #ffa; }
+mark { color: #444; }
+
+hr { border-top-color: #000; }
+
+pre {
+	border: 1px solid #000;
+	background: #fafafa;
+}
+
+::-moz-selection { background: #39f; color: #fff; }
+::selection { background: #39f; color: #fff; }
+
+
+/* Useful Snippets
+----------------------------------------------------------------------------------------------------*/
+
+a:not([class]):active,
+a:not([class]):focus {
+	position: relative;
+	top: 1px;
+}
+
+a:not([class]):active > *,
+a:not([class]):focus > * {
+	position: relative;
+	top: -1px;
+}
